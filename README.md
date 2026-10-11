@@ -1,1 +1,1 @@
-# movie-ticket-booking-calculator
+A Python calculator handling ticket pricing, age restrictions, and discounts.
